@@ -8,9 +8,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '视觉系统',
+  domain: 'https://www.notion.so/1f3921e7915d4b1fafff159270e0405c',
+  author: 'YYQ',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -18,9 +18,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: '视觉系统',
-  github: 'https://www.notion.so/1f3921e7915d4b1fafff159270e0405c',
-  linkedin: 'YYQ',
+  twitter: '',
+  github: 'https://github.com/QQ-and-qq',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
