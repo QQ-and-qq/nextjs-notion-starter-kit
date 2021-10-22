@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '3fa424bb468c42ca8cf2f23bef85fe83',
+  rootNotionPageId: '1f3921e7915d4b1fafff159270e0405c',
 
   
   // if you want to restrict pages to a single notion workspace (optional)
@@ -18,9 +18,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '视觉系统',
+  github: 'https://www.notion.so/1f3921e7915d4b1fafff159270e0405c',
+  linkedin: 'YYQ',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
